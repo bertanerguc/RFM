@@ -1,7 +1,3 @@
-Here’s a well-organized and visually enhanced `README.md` file for the RFM-based customer segmentation project:
-
----
-
 # 🌟 FLO RFM Customer Segmentation
 
 This project implements **RFM (Recency, Frequency, Monetary)** analysis to segment FLO’s customers based on their purchase behavior. It enables tailored marketing strategies for customer retention and acquisition.
